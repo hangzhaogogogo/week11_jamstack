@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[918],{8037:function(e,t,l){l.r(t);var r=l(7294);t.default=e=>{let{data:t}=e;const{frontmatter:l,html:a}=t.markdownRemark;return r.createElement("div",null,r.createElement("h1",null,l.title),r.createElement("div",{dangerouslySetInnerHTML:{__html:a}}))}}}]);
+//# sourceMappingURL=component---src-templates-markdown-template-js-d86aeac2d4265d09818f.js.map
